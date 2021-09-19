@@ -5,7 +5,7 @@ This repo accompanies our paper:
 ### Contents
 This repo contains all the data and code needed to reproduce the analysis in the preprint above, with the exception of the numerical experiments in the supplements, which generated larger files stored [here](https://drive.google.com/drive/folders/1Gc4Ixx6p0kF3jn2goYqES0osovCumXWS?usp=sharing).
 
-`simulation_and_figures.py`: code for all model simulations and figures.
+**`simulation_and_figures.py`**: code for all model simulations and figures.
 
 `sim_log/`: data and figure directory.
 
