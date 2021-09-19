@@ -9,6 +9,8 @@ This repo contains all the data and code needed to reproduce the analysis in the
 
 `sim_log/`: data and figure directory.
 
+`binarymaze_utils/`: utils for creating [binary maze](https://github.com/markusmeister/Rosenberg-2021-Repository).
+
 ### How to run `simulation_and_figures.py`
 
 The simplest way is to upload this repo to Colab, which has all the dependencies already installed. Alternatively, run this locally using Jupyter Notebooks. Follow instructions in the notebook.
