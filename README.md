@@ -11,4 +11,4 @@ This repo contains all the data and code needed to reproduce the analysis in the
 
 ### How to run `simulation_and_figures.py`
 
-The simplest way is to upload this repo to Colab, which has all the dependencies already installed. Follow instructions in the notebook.
+The simplest way is to upload this repo to Colab, which has all the dependencies already installed. Alternatively, run this locally using Jupyter Notebooks. Follow instructions in the notebook.
