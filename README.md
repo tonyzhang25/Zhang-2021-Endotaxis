@@ -1,6 +1,6 @@
 This repo accompanies our paper:
 
-**Zhang, T., Rosenberg, M., Perona, P., and Meister, M. (2021). Endotaxis: A Universal Algorithm for Mapping, Goal-Learning, and Navigation. BioRxiv 2021.**
+**Zhang, T., Rosenberg, M., Perona, P., and Meister, M. (2021). Endotaxis: A Universal Algorithm for Mapping, Goal-Learning, and Navigation.**
 
 ### Contents
 This repo contains all the code needed to reproduce the analysis in the preprint. 
